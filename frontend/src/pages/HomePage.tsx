@@ -31,7 +31,7 @@ const HomePage = () => {
             Order takeaway even faster!
           </span>
           <span>
-            Download the MernEats App for faster ordering and personalised
+            Download the DabaWala App for finding Meals and ordering
             recommendations
           </span>
           <img src={appDownloadImage} />
