@@ -28,7 +28,7 @@ const MobileNav = () => {
               {user?.email}
             </span>
           ) : (
-            <span> Welcome to Dabawala.com!</span>
+            <span> Welcome to MessLocate.com!</span>
           )}
         </SheetTitle>
         <Separator />
